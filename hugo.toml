@@ -2,11 +2,11 @@
 # baseURL = 'http://localhost'
 theme = "hugo-simple"
 languageCode = "en-us"             
-title = "Hugo Simple"
+title = "Renitz Homepage"
 copyright = "© 2024 Renitz"
 
 # Generate a nice robots.txt for SEO
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
