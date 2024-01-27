@@ -2,10 +2,13 @@
 title: "⸂⸂⸜(രᴗര๑)⸝⸃⸃"
 ---
 
-I am free because I am a Linuxer. 
-I am free because I am a Bitcoiner.
-I am free because I believe in God.
-I am free because I am.
+```rust
+fn main() {
+    println!("I am free in Linux.");  
+    println!("I am free in Bitcoin.");
+    println!("I am free in God.");
+}
+```
 
 > Talk is cheap. Show me the code.
 >
@@ -18,6 +21,8 @@ I am free because I am.
 >
 > --- [Michael J. Saylor](https://twitter.com/saylor/status/1307029562321231873)
 
-
+> And you will know the truth, and the truth will set you free
+>
+> --- Jesus (John 8:32)
 
 Made with :joy: by [Jerry](https://junghoon2lee.github.io/DownTheRabitHole/)
