@@ -1,24 +1,21 @@
 ---
-title: ʕ•́ᴥ•̀ʔっ
+title: "⸂⸂⸜(രᴗര๑)⸝⸃⸃"
 ---
 
-Today's websites are bloated, slow, and full of scripts, ads, and trackers. This
-became so commonplace that we lost all sense of perspective, to the point that
-we now think multi-megabyte webpages are normal.
+I am free because I am a linuxer. 
+I am free because I am a bitcoiner.
+I am free because I believe in God.
+I am free because I am.
 
-> The internet has become a bloated mess. Huge JavaScript libraries, countless
-> client-side queries and overly complex frontend frameworks are par for the
-> course these days.
+> Bitcoin is a swarm of cyber hornets serving the goddess of wisdom, feeding
+> on the fire of truth, exponentially growing ever smarter, faster, and 
+> stronger behind a wall of encrypted energy.
 >
-> --- [Kev Quirk](https://512kb.club/)
+> --- [Michael J. Saylor](https://twitter.com/saylor/status/1307029562321231873)
 
 Let's change this, one website at a time! **Hugo Simple** is a
 [Hugo](https://gohugo.io/) theme based on [Simple.css](https://simplecss.org/) and
 [Hugo Bear](https://github.com/janraasch/hugo-bearblog/) that takes care of speed and
 optimization, so you can focus on writing good content.
 
-It is free, multilingual, optimized for search engines, no-nonsense, responsive,
-light, and fast. Really fast.
-
-Made with 💟 by [Shaolong Chen](https://github.com/maolonglong).
-
+Made with 💟 by [Jerry](https://github.com/).
