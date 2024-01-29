@@ -1,5 +1,5 @@
 # Basic config
-baseURL = 'https://github.com/junghoon2lee/DownTheRabitHole/'
+baseURL = 'https://junghoon2lee.github.io/DownTheRabitHole/'
 theme = "hugo-simple"
 languageCode = "en-us"             
 title = "Jerry Homepage"
@@ -42,6 +42,7 @@ email = ""
 name = "Home"
 pageRef = "/"
 weight = 10
+
 [[menu.main]]
 name = "Blog"
 pageRef = "/blog"
