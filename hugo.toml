@@ -3,7 +3,7 @@
 theme = "hugo-simple"
 languageCode = "en-us"             
 title = "Jerry Homepage"
-copyright = "© 2024 Jerry"
+copyright = "©2024 Jerry"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = false
