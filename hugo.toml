@@ -1,5 +1,5 @@
 # Basic config
-baseURL = 'https://junghoon2lee.github.io/DownTheRabitHole/'
+# baseURL = 'https://junghoon2lee.github.io/DownTheRabitHole/'
 theme = "hugo-simple"
 languageCode = "en-us"             
 title = "Jerry Homepage"
@@ -29,14 +29,14 @@ lineNumbersInTable = false
 noClasses = true
 style = "catppuccin-mocha"
 
-[params]
-description = "Hugo Simple Demo"
-favicon = "images/favicon.png"
-dateFormat = "2006-01-02"
-hideMadeWithLine = false
-[params.author]
-name = "Jerry Lee"
-email = ""
+# [params]
+# description = "Hugo Simple Demo"
+# favicon = "images/favicon.png"
+# dateFormat = "2006-01-02"
+# hideMadeWithLine = false
+# [params.author]
+# name = "Jerry Lee"
+# email = ""
 
 [[menu.main]]
 name = "Home"
