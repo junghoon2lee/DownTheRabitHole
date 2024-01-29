@@ -1,5 +1,5 @@
 # Basic config
-# baseURL = 'http://localhost'
+baseURL = 'https://github.com/junghoon2lee/DownTheRabitHole/'
 theme = "hugo-simple"
 languageCode = "en-us"             
 title = "Jerry Homepage"
