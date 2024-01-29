@@ -38,12 +38,12 @@ style = "catppuccin-mocha"
 # name = "Jerry Lee"
 # email = ""
 
-[[menu.main]]
+[menus]
+[[menus.main]]
 name = "Home"
 pageRef = "/"
 weight = 10
-
-[[menu.main]]
+[[menus.main]]
 name = "Blog"
 pageRef = "/blog"
 weight = 20
