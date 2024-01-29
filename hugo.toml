@@ -39,10 +39,10 @@ style = "catppuccin-mocha"
 # email = ""
 
 [menus]
-# [[menus.main]]
-# name = "Home"
-# pageRef = "/"
-# weight = 10
+[[menus.main]]
+name = "Home"
+pageRef = "/"
+weight = 10
 [[menus.main]]
 name = "Blog"
 pageRef = "/blog"
