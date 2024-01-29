@@ -21,7 +21,7 @@ fn main() {
 >
 > --- [Michael J. Saylor](https://twitter.com/saylor/status/1307029562321231873)
 
-> And you will know the truth, and the truth will set you free
+> And you will know the truth, and the truth will set you free.
 >
 > --- Jesus (John 8:32)
 

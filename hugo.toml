@@ -2,8 +2,8 @@
 # baseURL = 'http://localhost'
 theme = "hugo-simple"
 languageCode = "en-us"             
-title = "Renitz Homepage"
-copyright = "© 2024 Renitz"
+title = "Jerry Homepage"
+copyright = "© 2024 Jerry"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = false
